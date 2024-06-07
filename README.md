@@ -41,6 +41,10 @@
 
 ![8](https://github.com/longthinh/DevExpress/assets/163098554/742fca02-6542-4dd0-85ec-f0269c97df60)
 
+- Toolbox sẽ có thêm `DevExpress` cho thiết kế Form
+
+![9](https://github.com/longthinh/DevExpress/assets/163098554/122b22ec-c7ce-4c7e-a3aa-39f3997b0631)
+
 ## Bổ sung
 
 - Kích hoạt Visual Studio để dùng tối đa chức năng.
